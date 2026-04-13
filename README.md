@@ -28,7 +28,7 @@ The energy market has become increasingly competitive, leading to an alarming ch
 ## 📂 Repository Structure
 * `client_data.csv` - Historical customer usage, margins, and contract data.
 * `price_data.csv` - Historical variable and fixed pricing data.
-* `main.py` - The complete Python script containing EDA, feature engineering, and the Random Forest model implementation.
+* `FinalCode-Churn Prediction.ipynb` - The complete Python script containing EDA, feature engineering, and the Random Forest model implementation.
 
 ## 🚀 How to Run the Code
 1. Clone this repository:
